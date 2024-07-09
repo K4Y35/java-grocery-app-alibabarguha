@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        android:iconTint="@color/white"
+
+        />
+    <item
+        android:id="@+id/nav_graph"
+        android:icon="@drawable/graph"
+        android:title="Graph"/>
+
+
+    <item
+        android:id="@+id/nav_out_of_stock"
+        android:icon="@drawable/outofstock"
+        android:title="Out Of Stock"/>
+</menu>

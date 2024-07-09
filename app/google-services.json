@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111956605137",
+    "project_id": "alibabarguha-5e100",
+    "storage_bucket": "alibabarguha-5e100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111956605137:android:4aa704519275cac86badf0",
+        "android_client_info": {
+          "package_name": "com.example.alibabarguha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7q9F5Ke8l_TfSH2_qKOvGT5SbXMTYrqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

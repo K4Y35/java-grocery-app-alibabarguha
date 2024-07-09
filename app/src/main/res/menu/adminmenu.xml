@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/drawer_admin_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/add_categories"
+            android:icon="@drawable/baseline_checklist_24"
+            android:title="Add Categories" />
+
+        <item
+            android:id="@+id/add_product"
+            android:icon="@drawable/baseline_checklist_24"
+            android:title="Add Product" />
+
+        <item
+            android:id="@+id/drawer_admin_cart"
+            android:icon="@drawable/ic_cart"
+            android:title="Cart" />
+
+        <item
+            android:id="@+id/drawer_admin_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout" />
+
+
+    </group>
+</menu>

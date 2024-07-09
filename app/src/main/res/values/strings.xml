@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AlibabarGuha</string>
+    <string name="please_select_an_option_to_continue">Please Select An Option To Continue</string>
+    <string name="login">Login</string>
+    <string name="or">Or</string>
+    <string name="signup">Signup</string>
+    <string name="guest_mode">Guest Mode</string>
+    <string name="please_log_in_or_sign_up">Please log in or sign up to continue</string>
+    <string name="welcome">Welcome!</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="navigation_drawer_open">drawer open\n</string>
+    <string name="navigation_drawer_close">drawer close</string>
+    <string name="notification_icon_desc">notification icon\n</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
